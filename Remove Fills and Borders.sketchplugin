@@ -1,5 +1,4 @@
 var layer = selection[0]
-var layerFrame = [layer frame]
 var artboard = [[doc currentPage] currentArtboard] || [doc currentPage]
 
 //Remove all fills
