@@ -1,0 +1,25 @@
+{
+  "name" : "Remove Fills and Borders",
+  "description" : "Remove a layer's fills and borders",
+  "author": "Seb Jachec",
+  "authorEmail" : "sjachec1@gmail.com",
+  "version": 1.0,
+  "identifier": "me.sebj.remove-fills-borders",
+  "compatibleVersion": 3.3,
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Remove Fills and Borders",
+      "identifier" : "remove-fills-borders"
+    }
+  ],
+  "menu" : {
+    "isRoot": true,
+    "items" : [
+      "remove-fills-borders"
+    ],
+    "title" : "Remove Fills and Borders"
+  }
+}
