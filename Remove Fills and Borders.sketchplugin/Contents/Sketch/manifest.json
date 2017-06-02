@@ -8,6 +8,7 @@
   "bundleVersion": 1.0,
   "compatibleVersion": 3.3,
   "identifier": "me.sebj.remove-fills-borders",
+  "appcast": "https://api.sketchpacks.com/v1/plugins/me.sebj.remove-fills-borders/appcast",
   "commands": [
     {
       "script": "script.cocoascript",
